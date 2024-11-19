@@ -1,0 +1,23 @@
+.gallery-container {
+  text-align: center;
+}
+
+.slider-container {
+  position: relative;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.slider {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.prev,
+.next {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
